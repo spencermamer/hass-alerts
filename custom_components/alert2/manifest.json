@@ -4,5 +4,6 @@
     "documentation": "https://github.com/redstone99/hass-alert2",
     "codeowners": [],
     "version": "1.4",
-    "dependencies": [ ]
+    "dependencies": [ ],
+    "config_flow": true
 }

@@ -85,6 +85,20 @@ Suggestions welcome! Start a [Discussion](https://github.com/redstone99/hass-ale
 
 1. We strongly recommend also installing the [Alert2 UI](https://github.com/redstone99/hass-alert2-ui) card which is a compact way to view and manage Alert2 alerts.
 
+### Home Assistant Config Flow Setup
+
+1. Go to the Home Assistant web interface.
+
+1. Click on "Configuration" in the sidebar.
+
+1. Click on "Integrations".
+
+1. Click the "+" button to add a new integration.
+
+1. Search for "Alert2" and select it.
+
+1. Follow the on-screen instructions to set up the Alert2 integration.
+
 ## Setup
 
 Setup is done through editing your `configuration.yaml` file.
